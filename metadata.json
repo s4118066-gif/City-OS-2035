@@ -1,0 +1,14 @@
+{
+  "project": "CityOS-2035 Operational Dashboard",
+  "version": "1.0.0",
+  "description": "A centralized Quantum AI dashboard for managing the physical event experiences at large-scale sporting venues during the Mega-Derby Dual Match.",
+  "simulation_date": "2035-10-24",
+  "core_features": [
+    "Fluid-Path AR Wayfinding",
+    "Micro-Demand Balancing",
+    "Swarm-Staffing Coordination Grid"
+  ],
+  "author": "Antigravity AI",
+  "main_entry": "index.html",
+  "data_source": "data.json"
+}

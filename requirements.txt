@@ -1,0 +1,2 @@
+# No external dependencies are required for this project.
+# The dashboard runs entirely in the browser using standard HTML, CSS, and vanilla JavaScript.

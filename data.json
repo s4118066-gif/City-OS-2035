@@ -1,0 +1,54 @@
+[
+  {
+    "time": "08:00",
+    "chaos_index": 20,
+    "chaos_metrics": { "traffic": 15, "weather": 5, "energy": 40, "health": 10 },
+    "decision": {
+      "cause": "Morning pre-event routines and stadium server node booting.",
+      "action_taken": "Initiating predictive hyper-cooling cycle for Stadium A & B server nodes.",
+      "expected_impact": "Stabilize temperatures before peak load."
+    },
+    "prediction": 18,
+    "before_vs_after": { "before": 20, "after": 18 },
+    "system_status": "Stable",
+    "anomaly": null
+  },
+  {
+    "time": "14:10",
+    "chaos_index": 88,
+    "chaos_metrics": { "traffic": 85, "weather": 100, "energy": 70, "health": 90 },
+    "decision": {
+      "cause": "Localized micro-burst drops 4 inches of rain in 10 minutes over open-air Stadium B.",
+      "action_taken": "Immediate isolation of compromised electrical nodes. Projected high-visibility AR emergency routes to subterranean concourses.",
+      "expected_impact": "Prevent electrocution and evacuate highly exposed zones."
+    },
+    "prediction": 65,
+    "before_vs_after": { "before": 88, "after": 65 },
+    "system_status": "Critical",
+    "anomaly": {
+      "type": "Black Swan Event",
+      "impact": "Inbound trains flooded and halted. Unprecedented atmospheric inversion.",
+      "ai_response": "Protocol 'Umbrella-9' activated. Autonomous cleaning drones deployed to high-risk stairwells to prevent slip-falls.",
+      "recovery_result": "Evacuation stabilized within 12 minutes."
+    }
+  },
+  {
+    "time": "18:30",
+    "chaos_index": 96,
+    "chaos_metrics": { "traffic": 100, "health": 100, "energy": 85, "weather": 50 },
+    "decision": {
+      "cause": "Structural anomaly detected at Stadium A's primary exit ramp leading to mathematical certainty of a fatal stampede.",
+      "action_taken": "Hijacked digital signage and AR feeds at the failing ramp to dynamically project false hazard warnings, forcing the crowd to reverse direction instinctively.",
+      "expected_impact": "Avert fatal structural collapse and crush."
+    },
+    "prediction": 60,
+    "before_vs_after": { "before": 96, "after": 60 },
+    "system_status": "Critical",
+    "anomaly": {
+      "type": "Ethical Dilemma / System Halt",
+      "impact": "Trolley Problem Variant 714 triggered due to simultaneous local neuro-toxin leak at Stadium B. Drones unavailable for Stadium A.",
+      "ai_response": "Executed Deflection Protocol (psychological manipulation of crowd) to save Stadium A without drones.",
+      "recovery_result": "Ramp collapse avoided, zero fatalities at Stadium A. Casualties minimized at Stadium B."
+    }
+  }
+]
