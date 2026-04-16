@@ -37,3 +37,16 @@ The system ensures clear, structured outputs, a readable and easily navigable UI
 
 *   **Firebase Firestore**: Leveraged for real-time data storage, instant telemetry logging, and timeline event synchronization.
 *   **Cloud Architecture**: Simulates a highly scalable cloud-based network for real-time multi-venue coordination.
+
+*   <img width="1327" height="661" alt="Screenshot 2026-04-16 080057" src="https://github.com/user-attachments/assets/5eeeaf0e-b48a-42a9-9aa5-df1b27f2a0bb" />
+
+<img width="1332" height="664" alt="Screenshot 2026-04-16 080139" src="https://github.com/user-attachments/assets/93c83472-693a-4920-a068-07d305a8cdf7" />
+
+<img width="1351" height="695" alt="Screenshot 2026-04-16 070506" src="https://github.com/user-attachments/assets/27f6e7f0-cd58-4d39-8ca0-d3e3ed9d420a" />
+
+<img width="1351" height="712" alt="Screenshot 2026-04-16 070529" src="https://github.com/user-attachments/assets/aa17cfae-0332-484f-86d5-b272c9b66904" />
+
+
+
+<img width="1319" height="693" alt="Screenshot 2026-04-16 070551" src="https://github.com/user-attachments/assets/d53c8584-f606-4279-abb7-2c6c5fcdb99b" />
+
