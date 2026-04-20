@@ -514,6 +514,12 @@
   const result = runSimulation();
   console.log(result);
 </script>
+  <script type="module">
+  import { logEvent } from "./firebase.js";
+
+  const result = runSimulation();
+  logEvent(result);
+</script>
 </body>
 
 </html>
