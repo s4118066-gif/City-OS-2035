@@ -50,5 +50,11 @@
       "ai_response": "Executed Deflection Protocol (psychological manipulation of crowd) to save Stadium A without drones.",
       "recovery_result": "Ramp collapse avoided, zero fatalities at Stadium A. Casualties minimized at Stadium B."
     }
+    {
+  "traffic": 72,
+  "energy": 65,
+  "weather": 80,
+  "health": 60
+}
   }
 ]
