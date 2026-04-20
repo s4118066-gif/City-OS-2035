@@ -1,7 +1,23 @@
-# CityOS-2035 Operational Dashboard
+# 🧠 CityOS-2035: Intelligent Urban Control System
 
-Welcome to the future. This project visualizes a 24-hour operational log from "CityOS", an AI managing the physical event experience at multiple large-scale sporting venues during the 2035 "Mega-Derby Dual Match" weekend.
+## 🚨 Problem
+Modern cities lack real-time coordination between traffic, weather, energy, and public health systems, leading to instability and inefficiency.
 
+## 💡 Solution
+CityOS-2035 is an AI-powered urban intelligence system that:
+- Continuously monitors city conditions
+- Calculates a real-time Chaos Index
+- Makes autonomous decisions to stabilize systems
+- Predicts future outcomes and risks
+
+Unlike traditional dashboards, this system actively simulates decision-making and recovery strategies.
+
+## 🧠 AI Capabilities
+
+- Multi-factor decision making using weighted parameters
+- Real-time anomaly detection
+- Predictive analysis of future conditions
+- Self-evaluation and optimization of decisions
 ## Project Structure
 
 *   **`index.html`**: A cinematic, interactive frontend dashboard visualizing the operational timeline. It features high-quality glassmorphism aesthetics, contextual animations, and strict status color-coding.
@@ -22,16 +38,29 @@ To view the dashboard, simply double-click and open `index.html` in any modern w
 5. System predicts future states and recalculates system load.
 6. Results and decision traces are logged and stored using Firebase.
 
-## Testing & Edge Cases
+## 🧪 Testing & Edge Cases
 
-*   **Extreme Stress Tests**: Handles extreme traffic surges (>90%).
-*   **Weather Anomalies**: Detects and accounts for abnormal, localized spikes in weather severity.
-*   **Threshold Alerting**: Triggers emergency operational modes when the global Chaos Index > 80.
-*   **Data Integrity**: Validates invalid or missing data inputs via automated schema checks.
+The system is rigorously tested against real-world instability scenarios to ensure reliability, resilience, and intelligent recovery:
 
-## Accessibility
+- **Extreme Traffic Surge:** Simulates traffic density above 90% and validates AI response for congestion reduction.
+- **Weather Anomaly Detection:** Handles sudden spikes in weather severity (storms, heatwaves) and adjusts system decisions dynamically.
+- **Critical Threshold Handling:** Automatically triggers emergency protocols when Chaos Index exceeds 80.
+- **Black Swan Event Simulation:** Tests rare, high-impact events and evaluates AI-driven recovery strategies.
+- **Data Validation:** Ensures system stability by handling missing, inconsistent, or invalid input data.
+- **System Recovery Verification:** Confirms that AI decisions effectively reduce Chaos Index (Before vs After comparison).
 
-The system ensures clear, structured outputs, a readable and easily navigable UI, and a high-contrast layout for user-friendly interpretation and better overall usability.
+  ## 🧠 AI Capabilities
+
+- Multi-factor decision making using weighted parameters
+- Predictive analysis of future city conditions
+- Self-evaluation of decisions for optimization
+- Adaptive response to dynamic and unpredictable events
+  
+## ♿ Accessibility
+
+- Clean and structured UI for easy readability
+- High-contrast design for visibility
+- Logical output formatting for better user understanding
 
 ## Google Services Used
 
